@@ -19,6 +19,10 @@ This password generator generates a password which a length between 10 and 64 ch
 
 No installion required. 
 
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/117188356/223192418-f37cb807-8590-4d5f-8e14-cce5224e347e.png)
+
 # License
 
 MIT License
